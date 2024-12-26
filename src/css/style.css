@@ -116,7 +116,7 @@ html {
 }
 
 .promo__subtitle {
-    color: burlywood;
+    color: var(--light-color);
     font-size: 32px;
     font-weight: 100;
     line-height: 39px;
